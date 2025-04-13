@@ -43,7 +43,7 @@ Analyze text like a pro using the power of Azure AI Language services! This Pyth
 ```bash
 
 git clone https://github.com/MouryaSagar17/Text-Analysis-App-Python-.git
-cd Python/text-analysis
+cd text-analysis/Python/
 
 ```
 ---
