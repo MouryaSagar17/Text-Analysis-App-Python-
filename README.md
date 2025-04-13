@@ -117,11 +117,11 @@ text-analysis/
 
 ### 📘 Learn More
 
-📄 Azure AI Language Overview
+📄 [Azure AI Language Overview](https://learn.microsoft.com/en-us/azure/ai-services/language-service/overview)
 
-📊 Text Analytics in Azure
+📊 [Text Analytics in Azure](https://learn.microsoft.com/en-us/training/modules/analyze-text-with-text-analytics-service/)
 
-🧪 SDK Reference - Python
+🧪 [SDK Reference - Python](https://pypi.org/project/azure-ai-textanalytics/)
 
 --- 
 
