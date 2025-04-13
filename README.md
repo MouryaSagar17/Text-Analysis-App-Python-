@@ -78,6 +78,8 @@ python text-analysis.py
 
 ```
 ---
+# Sample Output :
+![text-analysis/Screenshot (63).png](https://github.com/MouryaSagar17/Text-Analysis-App-Python-/blob/main/text-analysis/Screenshot%20(63).png?raw=true)
 
 Watch as the app processes each review file and reveals:
 ```bash
@@ -98,11 +100,19 @@ Watch as the app processes each review file and reveals:
 ``` bash
 
 text-analysis/
+├── Python/
 ├── .env                  # Azure credentials
-├── reviews/              # Sample review texts
 ├── text-analysis.py      # Main Python script
+├── reviews/              # Sample review texts
+├── review1.txt
+├── review2.txt
+├── review3.txt 
+├── review4.txt
+├── review5.txt      
 
-``` 
+```
+### Output 
+
 --- 
 
 ### 📘 Learn More
